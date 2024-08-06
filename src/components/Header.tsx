@@ -4,7 +4,7 @@ import ContactBtn from "./ContactBtn";
 
 export default function Header() {
   return (
-    <header>
+    <header >
       <div>
         <Logo />
         <div>
